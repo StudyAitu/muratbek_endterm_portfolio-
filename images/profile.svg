@@ -1,0 +1,18 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#2563eb"/>
+            <stop offset="100%" stop-color="#7c3aed"/>
+        </linearGradient>
+    </defs>
+    <rect width="400" height="400" rx="32" fill="url(#bg)"/>
+    <circle cx="200" cy="145" r="75" fill="#f1c7a5"/>
+    <path d="M125 140 Q125 55 200 65 Q275 55 275 140 L260 115 Q200 75 140 120Z" fill="#20243a"/>
+    <path d="M75 400 Q85 255 200 255 Q315 255 325 400Z" fill="#172554"/>
+    <path d="M165 245 L200 290 L235 245" fill="#ffffff"/>
+    <circle cx="172" cy="155" r="6" fill="#20243a"/>
+    <circle cx="228" cy="155" r="6" fill="#20243a"/>
+    <path d="M180 195 Q200 210 220 195" fill="none" stroke="#9b5b4a" stroke-width="4" stroke-linecap="round"/>
+    <text x="200" y="365" text-anchor="middle" fill="#ffffff" font-size="20" font-family="Arial">Software Engineer</text>
+</svg>

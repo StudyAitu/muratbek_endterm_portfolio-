@@ -1,0 +1,18 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350">
+    <rect width="600" height="350" rx="24" fill="#0f172a"/>
+    <text x="300" y="55" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial" font-weight="bold">Graph Algorithms</text>
+    <g stroke="#38bdf8" stroke-width="5" fill="none">
+        <path d="M150 140 L300 100 L450 150 L350 260 L180 250 L150 140"/>
+        <path d="M150 140 L350 260"/>
+        <path d="M300 100 L350 260"/>
+    </g>
+    <g fill="#facc15" stroke="#ffffff" stroke-width="3">
+        <circle cx="150" cy="140" r="18"/>
+        <circle cx="300" cy="100" r="18"/>
+        <circle cx="450" cy="150" r="18"/>
+        <circle cx="350" cy="260" r="18"/>
+        <circle cx="180" cy="250" r="18"/>
+    </g>
+    <text x="300" y="320" text-anchor="middle" fill="#94a3b8" font-size="18" font-family="Arial">MST • Dijkstra • Graph Theory</text>
+</svg>
