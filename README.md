@@ -238,4 +238,4 @@ Group: SE-2529
 Institution: Astana IT University
 Course: Web Technologies: Front-End Development
 Git hub pages:https://studyaitu.github.io/muratbek_endterm_portfolio-/
-Git hub repository:
+Git hub repository:https://github.com/StudyAitu/muratbek_endterm_portfolio-
