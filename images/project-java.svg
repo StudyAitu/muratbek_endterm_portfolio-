@@ -1,18 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350">
-    <rect width="600" height="350" rx="24" fill="#172554"/>
-    <rect x="90" y="55" width="420" height="240" rx="14" fill="#0f172a" stroke="#60a5fa" stroke-width="3"/>
-    <rect x="90" y="55" width="420" height="38" rx="14" fill="#1e3a8a"/>
-    <circle cx="115" cy="74" r="6" fill="#f87171"/>
-    <circle cx="135" cy="74" r="6" fill="#facc15"/>
-    <circle cx="155" cy="74" r="6" fill="#4ade80"/>
-    <g font-family="monospace" font-size="20">
-        <text x="125" y="140" fill="#c084fc">public class</text>
-        <text x="285" y="140" fill="#facc15">Main</text>
-        <text x="125" y="180" fill="#ffffff">{</text>
-        <text x="155" y="220" fill="#38bdf8">System.out.println</text>
-        <text x="155" y="250" fill="#4ade80">("Hello World");</text>
-        <text x="125" y="275" fill="#ffffff">}</text>
-    </g>
-    <text x="300" y="330" text-anchor="middle" fill="#ffffff" font-size="22" font-family="Arial">Java Programming</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+    <rect width="1200" height="720" rx="36" fill="#172554"/>
+    <rect x="70" y="70" width="1060" height="580" rx="28" fill="#020617"/>
+    <text x="110" y="145" fill="#93c5fd" font-family="monospace" font-size="30">public class DeveloperProject {</text>
+    <text x="150" y="205" fill="#c4b5fd" font-family="monospace" font-size="28">private String language = "Java";</text>
+    <text x="150" y="260" fill="#86efac" font-family="monospace" font-size="28">private boolean oop = true;</text>
+    <text x="150" y="370" fill="#fca5a5" font-family="monospace" font-size="28">public void build() { learn(); practice(); }</text>
 </svg>
